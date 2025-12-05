@@ -15,7 +15,9 @@ scoop install haomingz/<app-name>
 
 | App | Description | Homepage |
 |-----|-------------|----------|
+| [alma](./bucket/alma.json) | AI-powered assistant and productivity tool | [alma.now](https://alma.now) |
 | [configarr](./bucket/configarr.json) | Configuration tool for arr services (Radarr, Sonarr, etc.) | [configarr.de](https://configarr.de/) |
+| [mcp-grafana](./bucket/mcp-grafana.json) | A Model Context Protocol (MCP) server for Grafana | [github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) |
 
 ## Adding New Apps
 
