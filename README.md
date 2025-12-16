@@ -18,6 +18,7 @@ scoop install haomingz/<app-name>
 | [alma](./bucket/alma.json) | AI-powered assistant and productivity tool | [alma.now](https://alma.now) |
 | [claude-code](./bucket/claude-code.json) | An agentic coding tool that lives in your terminal | [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code) |
 | [configarr](./bucket/configarr.json) | Configuration tool for arr services (Radarr, Sonarr, etc.) | [configarr.de](https://configarr.de/) |
+| [icann-rdap](./bucket/icann-rdap.json) | ICANN implementation of the Registry Data Access Protocol (RDAP) | [github.com/icann/icann-rdap](https://github.com/icann/icann-rdap) |
 | [mcp-grafana](./bucket/mcp-grafana.json) | A Model Context Protocol (MCP) server for Grafana | [github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) |
 
 ## Adding New Apps
