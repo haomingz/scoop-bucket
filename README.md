@@ -21,6 +21,7 @@ scoop install haomingz/<app-name>
 | [icann-rdap](./bucket/icann-rdap.json) | ICANN implementation of the Registry Data Access Protocol (RDAP) | [github.com/icann/icann-rdap](https://github.com/icann/icann-rdap) |
 | [elasticsearch-mcp-server](./bucket/elasticsearch-mcp-server.json) | Connect to your Elasticsearch data directly from any MCP Client using the Model Context Protocol (MCP) | [github.com/elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) |
 | [mcp-grafana](./bucket/mcp-grafana.json) | A Model Context Protocol (MCP) server for Grafana | [github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) |
+| [splitrail](./bucket/splitrail.json) | Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald | [github.com/Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) |
 
 ## Adding New Apps
 
