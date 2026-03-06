@@ -9,7 +9,6 @@
             "hash": "ef8b465f238668f42e9d2993309a8d069f3cd26445b432fb0bd32253c471070a"
         }
     },
-    "extract_dir": "gws-x86_64-pc-windows-msvc",
     "bin": "gws.exe",
     "checkver": "github",
     "autoupdate": {
