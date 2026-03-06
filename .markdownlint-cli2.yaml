@@ -1,0 +1,16 @@
+# markdownlint-cli2 and vscode-markdownlint both use this config
+# See: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+config:
+  default: true
+
+  # MD013/line-length: Disable 80-char line limit (badges, tables, long URLs)
+  MD013: false
+
+  # MD024/no-duplicate-heading: Allow same heading text across sections; only
+  # sibling headings (same parent) must be unique
+  MD024:
+    siblings_only: true
+
+  # MD029/ol-prefix: Disable ordered list prefix check. Code blocks between list
+  # items break the list into separate lists, causing false positives for 2,3,4,5
+  MD029: false
