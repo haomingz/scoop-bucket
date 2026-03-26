@@ -10,13 +10,13 @@
         }
     },
     "bin": [
-        ["vmagent-windows-amd64-prod.exe", "vmagent.exe"],
-        ["vmalert-windows-amd64-prod.exe", "vmalert.exe"],
-        ["vmalert-tool-windows-amd64-prod.exe", "vmalert-tool.exe"],
-        ["vmauth-windows-amd64-prod.exe", "vmauth.exe"],
-        ["vmbackup-windows-amd64-prod.exe", "vmbackup.exe"],
-        ["vmctl-windows-amd64-prod.exe", "vmctl.exe"],
-        ["vmrestore-windows-amd64-prod.exe", "vmrestore.exe"]
+        ["vmagent-windows-amd64-prod.exe", "vmagent"],
+        ["vmalert-windows-amd64-prod.exe", "vmalert"],
+        ["vmalert-tool-windows-amd64-prod.exe", "vmalert-tool"],
+        ["vmauth-windows-amd64-prod.exe", "vmauth"],
+        ["vmbackup-windows-amd64-prod.exe", "vmbackup"],
+        ["vmctl-windows-amd64-prod.exe", "vmctl"],
+        ["vmrestore-windows-amd64-prod.exe", "vmrestore"]
     ],
     "checkver": "github",
     "autoupdate": {
