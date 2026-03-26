@@ -23,7 +23,9 @@ scoop install haomingz/<app-name>
 | [kubernetes-mcp-server](./bucket/kubernetes-mcp-server.json) | Model Context Protocol (MCP) server for Kubernetes and OpenShift | [github.com/containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) |
 | [mcp-grafana](./bucket/mcp-grafana.json) | A Model Context Protocol (MCP) server for Grafana | [github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) |
 | [splitrail](./bucket/splitrail.json) | Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald | [github.com/Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) |
+| [victoria-logs](./bucket/victoria-logs.json) | Fast and easy to use database for logs, which can efficiently handle terabytes of logs | [github.com/VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) |
 | [victoria-metrics](./bucket/victoria-metrics.json) | Fast, cost-effective monitoring solution and time series database | [github.com/VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) |
+| [vlutils](./bucket/vlutils.json) | Utilities suite from VictoriaLogs: vlagent and vlogscli | [github.com/VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) |
 | [vmutils](./bucket/vmutils.json) | Utilities suite from VictoriaMetrics: vmagent, vmalert, vmauth, vmbackup, vmctl, vmrestore, vmalert-tool | [github.com/VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) |
 
 ## Adding New Apps
