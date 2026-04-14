@@ -1,12 +1,12 @@
 {
-    "version": "1.49.0",
+    "version": "1.50.0",
     "description": "Fast and easy to use database for logs, which can efficiently handle terabytes of logs",
     "homepage": "https://github.com/VictoriaMetrics/VictoriaLogs",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/VictoriaMetrics/VictoriaLogs/releases/download/v1.49.0/victoria-logs-windows-amd64-v1.49.0.zip",
-            "hash": "e7b8b8ac038b51dd02d50933dec8144fd89da611a661430a5331082ce3edbfac"
+            "url": "https://github.com/VictoriaMetrics/VictoriaLogs/releases/download/v1.50.0/victoria-logs-windows-amd64-v1.50.0.zip",
+            "hash": "c85d93fa4ee71ce1892da1e9eb4620c7552250e7811e1b4d657cba674ba8382a"
         }
     },
     "bin": [
