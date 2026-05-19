@@ -17,6 +17,7 @@ scoop install haomingz/<app-name>
 | --- | --- | --- |
 | [claude-code](./bucket/claude-code.json) | An agentic coding tool that lives in your terminal | [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code) |
 | [configarr](./bucket/configarr.json) | Configuration tool for arr services (Radarr, Sonarr, etc.) | [configarr.de](https://configarr.de/) |
+| [coscli](./bucket/coscli.json) | Tencent Cloud Object Storage (COS) command-line tool with cross-bucket support | [github.com/tencentyun/coscli](https://github.com/tencentyun/coscli) |
 | [elasticsearch-mcp-server](./bucket/elasticsearch-mcp-server.json) | Connect to your Elasticsearch data directly from any MCP Client using the Model Context Protocol (MCP) | [github.com/elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) |
 | [gws](./bucket/gws.json) | One CLI for all of Google Workspace — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more | [github.com/googleworkspace/cli](https://github.com/googleworkspace/cli) |
 | [icann-rdap](./bucket/icann-rdap.json) | ICANN implementation of the Registry Data Access Protocol (RDAP) | [github.com/icann/icann-rdap](https://github.com/icann/icann-rdap) |
