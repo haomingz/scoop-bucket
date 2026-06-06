@@ -1,5 +1,5 @@
 {
-    "version": "2.1.166",
+    "version": "2.1.167",
     "description": "An agentic coding tool that lives in your terminal",
     "homepage": "https://github.com/anthropics/claude-code",
     "license": "Proprietary",
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.1.166/win32-x64/claude.exe",
-            "hash": "f47a014377e65cd3c679af4f21e2d18a6f7c096ee441109cf85a0c7e4a80fc3a"
+            "url": "https://storage.googleapis.com/claude-code-dist-86c565f3-f756-42ad-8dfa-d59b1c096819/claude-code-releases/2.1.167/win32-x64/claude.exe",
+            "hash": "a1b2a3390e56eb254b57cd5dae60c73628b896771871f5293700ad1a04991dd6"
         }
     },
     "bin": "claude.exe",
