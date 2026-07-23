@@ -19,6 +19,7 @@ scoop install haomingz/<app-name>
 | [configarr](./bucket/configarr.json) | Configuration tool for arr services (Radarr, Sonarr, etc.) | [configarr.de](https://configarr.de/) |
 | [coscli](./bucket/coscli.json) | Tencent Cloud Object Storage (COS) command-line tool with cross-bucket support | [github.com/tencentyun/coscli](https://github.com/tencentyun/coscli) |
 | [elasticsearch-mcp-server](./bucket/elasticsearch-mcp-server.json) | Connect to your Elasticsearch data directly from any MCP Client using the Model Context Protocol (MCP) | [github.com/elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) |
+| [firecrawl](./bucket/firecrawl.json) | CLI and Agent Skill for Firecrawl - scrape, search, and browse the web from your terminal or AI agent | [github.com/firecrawl/cli](https://github.com/firecrawl/cli) |
 | [gws](./bucket/gws.json) | One CLI for all of Google Workspace — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more | [github.com/googleworkspace/cli](https://github.com/googleworkspace/cli) |
 | [icann-rdap](./bucket/icann-rdap.json) | ICANN implementation of the Registry Data Access Protocol (RDAP) | [github.com/icann/icann-rdap](https://github.com/icann/icann-rdap) |
 | [kubernetes-mcp-server](./bucket/kubernetes-mcp-server.json) | Model Context Protocol (MCP) server for Kubernetes and OpenShift | [github.com/containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) |
