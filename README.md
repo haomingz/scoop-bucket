@@ -15,6 +15,7 @@ scoop install haomingz/<app-name>
 
 | App | Description | Homepage |
 | --- | --- | --- |
+| [alloy](./bucket/alloy.json) | OpenTelemetry Collector distribution with built-in Prometheus pipelines and support for metrics, logs, traces, and profiles | [grafana.com/docs/alloy](https://grafana.com/docs/alloy/) |
 | [claude-code](./bucket/claude-code.json) | An agentic coding tool that lives in your terminal | [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code) |
 | [configarr](./bucket/configarr.json) | Configuration tool for arr services (Radarr, Sonarr, etc.) | [configarr.de](https://configarr.de/) |
 | [coscli](./bucket/coscli.json) | Tencent Cloud Object Storage (COS) command-line tool with cross-bucket support | [github.com/tencentyun/coscli](https://github.com/tencentyun/coscli) |
