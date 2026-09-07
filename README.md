@@ -27,6 +27,7 @@ scoop install haomingz/<app-name>
 | [mcp-grafana](./bucket/mcp-grafana.json) | A Model Context Protocol (MCP) server for Grafana | [github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) |
 | [mcp-victorialogs](./bucket/mcp-victorialogs.json) | Model Context Protocol (MCP) server for VictoriaLogs | [github.com/VictoriaMetrics/mcp-victorialogs](https://github.com/VictoriaMetrics/mcp-victorialogs) |
 | [mcp-victoriametrics](./bucket/mcp-victoriametrics.json) | Model Context Protocol (MCP) server for VictoriaMetrics | [github.com/VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics) |
+| [ossutil](./bucket/ossutil.json) | Command-line tool for managing AliCloud OSS (Object Storage Service) | [help.aliyun.com/document_detail/120059.html](https://help.aliyun.com/document_detail/120059.html) |
 | [splitrail](./bucket/splitrail.json) | Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald | [github.com/Piebald-AI/splitrail](https://github.com/Piebald-AI/splitrail) |
 | [sshping](./bucket/sshping.json) | SSH-based ping that measures interactive character echo latency and file transfer throughput | [github.com/TeddyHuang-00/sshping](https://github.com/TeddyHuang-00/sshping) |
 | [tailcat](./bucket/tailcat.json) | Like netcat, but over Tailscale's data plane, without Tailscale's control plane | [tailscale.com/tailcat](https://tailscale.com/tailcat) |

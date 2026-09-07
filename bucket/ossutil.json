@@ -1,0 +1,35 @@
+{
+    "version": "2.4.0",
+    "description": "Command-line tool for managing AliCloud OSS (Object Storage Service)",
+    "homepage": "https://help.aliyun.com/zh/oss/developer-reference/ossutil-overview",
+    "license": "Proprietary",
+    "architecture": {
+        "64bit": {
+            "url": "https://gosspublic.alicdn.com/ossutil/v2/2.4.0/ossutil-2.4.0-windows-amd64.zip",
+            "extract_dir": "ossutil-2.4.0-windows-amd64",
+            "hash": "dd68cffb62d88e59ff3d7fde6055ac7b8e2197e2adce7e540bcd6c706a2c4a49"
+        },
+        "32bit": {
+            "url": "https://gosspublic.alicdn.com/ossutil/v2/2.4.0/ossutil-2.4.0-windows-386.zip",
+            "extract_dir": "ossutil-2.4.0-windows-386",
+            "hash": "4efe875059fe501ab66d88af68fa54d111279f8d25d657cb422a96e4da348137"
+        }
+    },
+    "bin": "ossutil.exe",
+    "checkver": {
+        "url": "https://gosspublic.alicdn.com/ossutil/v2/version.txt",
+        "regex": "ossutil version: (.+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://gosspublic.alicdn.com/ossutil/v2/$version/ossutil-$version-windows-amd64.zip",
+                "extract_dir": "ossutil-$version-windows-amd64"
+            },
+            "32bit": {
+                "url": "https://gosspublic.alicdn.com/ossutil/v2/$version/ossutil-$version-windows-386.zip",
+                "extract_dir": "ossutil-$version-windows-386"
+            }
+        }
+    }
+}
