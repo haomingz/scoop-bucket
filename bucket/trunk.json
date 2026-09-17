@@ -1,0 +1,28 @@
+{
+    "version": "1.25.0",
+    "description": "Universal linter, formatter and code quality manager that unifies linting, formatting, and security scanning across polyglot repositories",
+    "homepage": "https://docs.trunk.io/code-quality/overview",
+    "license": "Proprietary",
+    "architecture": {
+        "64bit": {
+            "url": "https://trunk.io/releases/1.25.0/trunk-1.25.0-windows-x86_64.zip",
+            "hash": "d883930b487d12a47e2c42fb83391417db4c4254c7346720c11e6a947c305a2c"
+        }
+    },
+    "bin": "trunk.exe",
+    "checkver": {
+        "url": "https://trunk.io/releases/latest",
+        "regex": "version: ([\\d.]+)"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://trunk.io/releases/$version/trunk-$version-windows-x86_64.zip"
+            }
+        },
+        "hash": {
+            "url": "https://trunk.io/releases/latest",
+            "regex": "windows_x86_64: ([a-f0-9]{64})"
+        }
+    }
+}
