@@ -19,6 +19,7 @@ scoop install haomingz/<app-name>
 | [claude-code](./bucket/claude-code.json) | An agentic coding tool that lives in your terminal | [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code) |
 | [configarr](./bucket/configarr.json) | Configuration tool for arr services (Radarr, Sonarr, etc.) | [configarr.de](https://configarr.de/) |
 | [coscli](./bucket/coscli.json) | Tencent Cloud Object Storage (COS) command-line tool with cross-bucket support | [github.com/tencentyun/coscli](https://github.com/tencentyun/coscli) |
+| [disktree](./bucket/disktree.json) | A treemap for finding and removing what fills your disk | [github.com/tobi/disktree](https://github.com/tobi/disktree) |
 | [elasticsearch-mcp-server](./bucket/elasticsearch-mcp-server.json) | Connect to your Elasticsearch data directly from any MCP Client using the Model Context Protocol (MCP) | [github.com/elastic/mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) |
 | [firecrawl](./bucket/firecrawl.json) | CLI and Agent Skill for Firecrawl - scrape, search, and browse the web from your terminal or AI agent | [github.com/firecrawl/cli](https://github.com/firecrawl/cli) |
 | [gws](./bucket/gws.json) | One CLI for all of Google Workspace — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more | [github.com/googleworkspace/cli](https://github.com/googleworkspace/cli) |
