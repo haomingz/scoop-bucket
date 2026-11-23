@@ -24,6 +24,7 @@ scoop install haomingz/<app-name>
 | [firecrawl](./bucket/firecrawl.json) | CLI and Agent Skill for Firecrawl - scrape, search, and browse the web from your terminal or AI agent | [github.com/firecrawl/cli](https://github.com/firecrawl/cli) |
 | [gws](./bucket/gws.json) | One CLI for all of Google Workspace — Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more | [github.com/googleworkspace/cli](https://github.com/googleworkspace/cli) |
 | [icann-rdap](./bucket/icann-rdap.json) | ICANN implementation of the Registry Data Access Protocol (RDAP) | [github.com/icann/icann-rdap](https://github.com/icann/icann-rdap) |
+| [jenkins-cli](./bucket/jenkins-cli.json) | GitHub CLI-style CLI for Jenkins controllers (installed as `jk`) | [github.com/avivsinai/jenkins-cli](https://github.com/avivsinai/jenkins-cli) |
 | [kubernetes-mcp-server](./bucket/kubernetes-mcp-server.json) | Model Context Protocol (MCP) server for Kubernetes and OpenShift | [github.com/containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) |
 | [mcp-grafana](./bucket/mcp-grafana.json) | A Model Context Protocol (MCP) server for Grafana | [github.com/grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) |
 | [mcp-victorialogs](./bucket/mcp-victorialogs.json) | Model Context Protocol (MCP) server for VictoriaLogs | [github.com/VictoriaMetrics/mcp-victorialogs](https://github.com/VictoriaMetrics/mcp-victorialogs) |
